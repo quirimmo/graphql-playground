@@ -1,0 +1,25 @@
+{
+  "name": "graphql-playground",
+  "version": "1.0.0",
+  "description": "A playground with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quirimmo/graphql-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quirimmo/graphql-playground/issues"
+  },
+  "homepage": "https://github.com/quirimmo/graphql-playground#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "node-fetch": "^2.3.0"
+  }
+}
